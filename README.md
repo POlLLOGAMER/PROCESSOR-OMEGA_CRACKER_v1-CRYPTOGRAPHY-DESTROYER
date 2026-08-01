@@ -151,8 +151,8 @@ omega-control --init --voltage=0.750 --clock=2600MHz
 
 Grab the tape-out package and its cryptographic manifest directly from the IPFS network:
 
-* 💾 **Full Tape-Out Package (`.zip`):** `[https://dweb.link/ipfs/bafkreidfm4d6nysgkcgsvjzzrickkeuibiitvhxmclt5hn4pmgrv7sunka?filename=omega_cracker_v1_tapeout_release_1.0.0_N3P.zip&download=true]`
-* 🔐 **SHA-256 Manifest (`OMEGA_CRACKER_v1_N3P.sha256`):** `[https://dweb.link/ipfs/bafkreihzifrlng43nk3qtlhu3g4buevg23wl4kbysl3bqlupp4xiwitiea?filename=omega_cracker_v1_tapeout_release_1.0.0_N3P.sha256&download=true]`
+* 💾 **Full Tape-Out Package (`.zip`):** https://dweb.link/ipfs/bafkreidfm4d6nysgkcgsvjzzrickkeuibiitvhxmclt5hn4pmgrv7sunka?filename=omega_cracker_v1_tapeout_release_1.0.0_N3P.zip&download=true
+* 🔐 **SHA-256 Manifest (`OMEGA_CRACKER_v1_N3P.sha256`):** https://dweb.link/ipfs/bafkreihzifrlng43nk3qtlhu3g4buevg23wl4kbysl3bqlupp4xiwitiea?filename=omega_cracker_v1_tapeout_release_1.0.0_N3P.sha256&download=true
 
 ---
 
