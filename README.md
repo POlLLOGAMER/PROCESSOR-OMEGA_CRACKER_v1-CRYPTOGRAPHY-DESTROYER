@@ -2,6 +2,8 @@
 
 **Purpose:** Deployment, initialization, and execution guide for the direct-silicon cryptography-shattering processor.
 
+Hand over RTL and specifications to an ASIC design house, a TSMC OIP ecosystem provider, or an authorized Cadence/Synopsys flow so they can perform RTL-to-GDSII. TSMC offers that ecosystem through OIP and design partners, not as automatic manufacturing from any ZIP file.
+
 ## 1. 🔌 Hardware Requirements and Connection
 
 The chip comes packaged in an **FCBGA-5148 (CoWoS-L)** socket. Don't try to put it in a commercial PC motherboard; you'd blow the power supply in a second.
